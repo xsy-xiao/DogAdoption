@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DogAdoption</string>
+    <string name="dog1">小黄</string>
+    <string name="dog2">招财</string>
+    <string name="dog3">小豆泥</string>
+    <string name="dog4">小豆泥二号</string>
+    <string name="dog5">狗狗</string>
+    <string name="dog6">哮天犬</string>
+    <string name="dog7">doge</string>
+    <string name="dog8">小土狗</string>
+    <string name="dog9">中华田园犬</string>
+    <string name="dog10">旺财</string>
+    <string name="detail1">小黄很可爱，是黄色的狗狗</string>
+    <string name="detail2">招财很可爱，是白色的狗狗</string>
+    <string name="detail3">小豆泥很可爱</string>
+    <string name="detail4">小豆泥二号也很可爱</string>
+    <string name="detail5">狗狗很可爱</string>
+    <string name="detail6">哮天犬很凶</string>
+    <string name="detail7">doge很滑稽</string>
+    <string name="detail8">小土狗是最可爱的</string>
+    <string name="detail9">中华田园犬会抓老鼠</string>
+    <string name="detail10">旺财很可爱</string>
+</resources>
